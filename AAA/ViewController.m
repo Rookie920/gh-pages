@@ -17,10 +17,13 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+<<<<<<< HEAD
     
     
     
     NSLog(@"11-14");
+=======
+>>>>>>> 297262aeca8d50a79a087e767faf4afd4bef2545
 }
 
 
